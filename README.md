@@ -48,9 +48,10 @@ plt.plot(x,y_predicted,color='red')
 plt.show()
 [6,10,2,4,6,7,0,1,8,5,3]
 [82,88,56,64,77,92,23,41,80,59,47]
+```
 ![Screenshot (77)](https://github.com/KavinilavanDK/Find-the-best-fit-line-using-Least-Squares-Method/assets/144870429/9908f54f-9f9f-464a-b3fa-9f04496b3849)
 
-```
+
 
 ## Output:
 ![Screenshot (76)](https://github.com/KavinilavanDK/Find-the-best-fit-line-using-Least-Squares-Method/assets/144870429/8c4c626a-0ad0-45d8-b4bd-2c49006bab0f)
